@@ -1,9 +1,2 @@
 source : 3
-3
-4
-10
-What is time?
-
-wq
-
-b
+This work is from home
